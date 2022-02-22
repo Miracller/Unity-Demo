@@ -10,9 +10,16 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
-/Class01/Assets/*
-!/Class01/Assets/Scenes
-!/Class01/Assets/Scripts
+/Class0[0-9]/Assets/*
+!/Class0[0-9]/Assets/Scenes
+!/Class0[0-9]/Assets/Scripts
+
+/Class0[0-9]_hw/Assets/*
+!/Class0[0-9]_hw/Assets/Scenes
+!/Class0[0-9]_hw/Assets/Scripts
+
+
+
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
