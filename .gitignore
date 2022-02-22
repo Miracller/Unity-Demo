@@ -19,7 +19,8 @@
 !/Class0[0-9]_hw/Assets/Scripts
 
 
-
+!/Class01*/Assets/SlightlyMad
+!/Class01*/Assets/Standard Assets
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
